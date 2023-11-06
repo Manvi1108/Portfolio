@@ -1,0 +1,51 @@
+[
+  {
+    "name": "TripMate",
+    "desc": "TripMate is a tourist agent which provides the facilities for booking hotels, holiday apartments and other accommodations for customers. ",
+    "image": "tripmate",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Manvi1108/TripMate/blob/master/TripMate_Report.pdf",
+      "code": "https://github.com/Manvi1108/TripMate"
+    }
+  },
+  {
+    "name": "Content Management Application",
+    "desc": "User-friendly blogging platform to create and customize your blog, and manage your content.",
+    "image": "collage2",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/manvi-singhal-119232216_project-bharatintern-github-activity-7082369967169413120-5RD9?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Manvi1108/Task-1-BharatIntern"
+    }
+  },
+  {
+    "name": "Video Conferencing Website",
+    "desc": "video conferencing website and application projects and help develop features like textual chatting, audio-video interactions, video recording, etc",
+    "image": "collage3",
+    "category": "mern",
+    "links": {
+      "view": "https://www.linkedin.com/posts/manvi-singhal-119232216_project-bharatintern-github-activity-7082369967169413120-5RD9?utm_source=share&utm_medium=member_desktop",
+      "code": "https://github.com/Manvi1108/Task-3-BharatIntern"
+    }
+  },
+  {
+    "name": "Motion",
+    "desc": "A platform dedicated to professional networking, facilitating connections among individuals and fostering relationships with colleagues and peers..",
+    "image": "collage4",
+    "category": "android",
+    "links": {
+      "code": "https://github.com/Manvi1108/Motion"
+    }
+  },
+  {
+    "name": "MoviesMania",
+    "desc": "Aims to simplify the process of finding movies and TV shows to watch by offering tailored suggestions and cater to a wide range oftastes, genres, and moods, making it easier for users to explore content that aligns with their preferences.",
+    "image": "collage5",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/Manvi1108/movies_project_moviesmania/"
+    }
+  }
+ ]
