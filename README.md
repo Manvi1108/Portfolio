@@ -11,7 +11,7 @@ Portfolio website build using HTML5, CSS3, JavaScript
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 ![mockup720]<img src="./assets/images/preview.PNG">
-![ss]<img src="./assets/images/preview1.PNG>
+![ss]<img src="./assets/images/preview1.PNG">
 
 
 <h2>📬 Contact</h2>
